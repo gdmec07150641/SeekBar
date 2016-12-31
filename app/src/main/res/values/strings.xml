@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SeekBar</string>
+    <string name="c_status">当前进度值</string>
+    <string name="status">当前状态</string>
+    <string name="trackingTouch" >正在拖动进度条</string>
+    <string name="noTouch">没有进行操作</string>
+</resources>
